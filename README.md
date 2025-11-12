@@ -122,7 +122,5 @@ This application is deployed on Railway. The deployment configuration includes:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-
-- **Developer**: Shaik Anwar Basha
-- **GitHub**: [@ShaikAnwar2004](https://github.com/ShaikAnwar2004)
-- **Live App**: [https://web-production-2cb0f.up.railway.app](https://web-production-2cb0f.up.railway.app)
+Developer : Syed Abdul Rahaman
+GitHub : https://github.com/Abdulrahaman07301/Food-Delivery-App
