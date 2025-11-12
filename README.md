@@ -34,8 +34,8 @@ A Django-based food delivery application with restaurant management, menu browsi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ShaikAnwar2004/MealMate.git
-cd MealMate
+git clone https://github.com/Abdulrahaman07301/Food-Delivery-App.git
+cd FOOD_DELIVERY
 ```
 
 2. Navigate to the Django project:
