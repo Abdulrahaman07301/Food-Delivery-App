@@ -1,4 +1,4 @@
-# MealMate - Food Delivery App
+# Food Delivery Web Application
 
 A Django-based food delivery application with restaurant management, menu browsing, and order processing features.
 
